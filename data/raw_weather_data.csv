@@ -1,0 +1,246 @@
+,location,latitude,longitude,day,weather,pt,pop
+0,Mont Saint Michel,48.6359541,-1.511459954959514,1,light rain,13.78,0.28
+1,Mont Saint Michel,48.6359541,-1.511459954959514,2,overcast clouds,17.04,0
+2,Mont Saint Michel,48.6359541,-1.511459954959514,3,broken clouds,19.18,0
+3,Mont Saint Michel,48.6359541,-1.511459954959514,4,overcast clouds,19.85,0
+4,Mont Saint Michel,48.6359541,-1.511459954959514,5,overcast clouds,15.73,0
+5,Mont Saint Michel,48.6359541,-1.511459954959514,6,light rain,17.75,0.31
+6,Mont Saint Michel,48.6359541,-1.511459954959514,7,light rain,13.68,0.72
+7,St Malo,48.649518,-2.0260409,1,broken clouds,13.66,0
+8,St Malo,48.649518,-2.0260409,2,overcast clouds,14.33,0
+9,St Malo,48.649518,-2.0260409,3,overcast clouds,17.71,0
+10,St Malo,48.649518,-2.0260409,4,overcast clouds,17.59,0
+11,St Malo,48.649518,-2.0260409,5,overcast clouds,14.94,0.04
+12,St Malo,48.649518,-2.0260409,6,light rain,16.7,0.37
+13,St Malo,48.649518,-2.0260409,7,light rain,12.51,0.6
+14,Bayeux,49.2764624,-0.7024738,1,light rain,13.85,0.32
+15,Bayeux,49.2764624,-0.7024738,2,overcast clouds,12.59,0
+16,Bayeux,49.2764624,-0.7024738,3,scattered clouds,19.01,0
+17,Bayeux,49.2764624,-0.7024738,4,broken clouds,18.77,0
+18,Bayeux,49.2764624,-0.7024738,5,overcast clouds,15.43,0
+19,Bayeux,49.2764624,-0.7024738,6,light rain,18.23,0.51
+20,Bayeux,49.2764624,-0.7024738,7,light rain,14.27,0.72
+21,Le Havre,49.4938975,0.1079732,1,overcast clouds,13.21,0.34
+22,Le Havre,49.4938975,0.1079732,2,overcast clouds,12.91,0
+23,Le Havre,49.4938975,0.1079732,3,broken clouds,15.55,0
+24,Le Havre,49.4938975,0.1079732,4,overcast clouds,16.46,0
+25,Le Havre,49.4938975,0.1079732,5,overcast clouds,14.22,0
+26,Le Havre,49.4938975,0.1079732,6,overcast clouds,14.7,0.11
+27,Le Havre,49.4938975,0.1079732,7,light rain,12.2,0.92
+28,Rouen,49.4404591,1.0939658,1,light rain,16.07,0.78
+29,Rouen,49.4404591,1.0939658,2,overcast clouds,13.93,0
+30,Rouen,49.4404591,1.0939658,3,scattered clouds,19.58,0
+31,Rouen,49.4404591,1.0939658,4,overcast clouds,21.62,0
+32,Rouen,49.4404591,1.0939658,5,overcast clouds,16.1,0
+33,Rouen,49.4404591,1.0939658,6,light rain,19,0.24
+34,Rouen,49.4404591,1.0939658,7,light rain,13.7,0.72
+35,Paris,48.8588897,2.3200410217200766,1,light rain,17.19,0.87
+36,Paris,48.8588897,2.3200410217200766,2,scattered clouds,17.21,0.22
+37,Paris,48.8588897,2.3200410217200766,3,clear sky,22.52,0
+38,Paris,48.8588897,2.3200410217200766,4,overcast clouds,23.97,0
+39,Paris,48.8588897,2.3200410217200766,5,broken clouds,19.94,0
+40,Paris,48.8588897,2.3200410217200766,6,scattered clouds,22.8,0
+41,Paris,48.8588897,2.3200410217200766,7,light rain,16.65,0.63
+42,Amiens,49.8941708,2.2956951,1,light rain,16.74,0.99
+43,Amiens,49.8941708,2.2956951,2,overcast clouds,14.78,0.01
+44,Amiens,49.8941708,2.2956951,3,few clouds,19.76,0
+45,Amiens,49.8941708,2.2956951,4,overcast clouds,22.16,0
+46,Amiens,49.8941708,2.2956951,5,overcast clouds,16.94,0
+47,Amiens,49.8941708,2.2956951,6,light rain,19.14,0.2
+48,Amiens,49.8941708,2.2956951,7,light rain,13.63,0.62
+49,Lille,50.6365654,3.0635282,1,light rain,17.43,0.85
+50,Lille,50.6365654,3.0635282,2,broken clouds,15.36,0
+51,Lille,50.6365654,3.0635282,3,few clouds,19.77,0
+52,Lille,50.6365654,3.0635282,4,overcast clouds,22.3,0
+53,Lille,50.6365654,3.0635282,5,overcast clouds,16.16,0
+54,Lille,50.6365654,3.0635282,6,overcast clouds,18.15,0.1
+55,Lille,50.6365654,3.0635282,7,light rain,12.58,0.98
+56,Strasbourg,48.584614,7.7507127,1,clear sky,19.65,0
+57,Strasbourg,48.584614,7.7507127,2,broken clouds,19.5,0.33
+58,Strasbourg,48.584614,7.7507127,3,clear sky,20.62,0.33
+59,Strasbourg,48.584614,7.7507127,4,light rain,23.4,0.24
+60,Strasbourg,48.584614,7.7507127,5,light rain,26.36,0.48
+61,Strasbourg,48.584614,7.7507127,6,light rain,24.37,0.55
+62,Strasbourg,48.584614,7.7507127,7,moderate rain,14.61,1
+63,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,1,clear sky,15.3,0.21
+64,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,2,light rain,15.66,0.38
+65,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,3,light rain,17.17,0.54
+66,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,4,light rain,19.45,0.24
+67,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,5,broken clouds,22.5,0.36
+68,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,6,light rain,23.09,0.34
+69,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,7,moderate rain,11.06,1
+70,Colmar,48.0777517,7.3579641,1,clear sky,18.75,0.28
+71,Colmar,48.0777517,7.3579641,2,light rain,18.87,0.53
+72,Colmar,48.0777517,7.3579641,3,light rain,20.24,0.6
+73,Colmar,48.0777517,7.3579641,4,light rain,23.39,0.27
+74,Colmar,48.0777517,7.3579641,5,broken clouds,25.95,0.3
+75,Colmar,48.0777517,7.3579641,6,overcast clouds,26.3,0.29
+76,Colmar,48.0777517,7.3579641,7,light rain,15.83,1
+77,Eguisheim,48.0447968,7.3079618,1,clear sky,18.66,0.3
+78,Eguisheim,48.0447968,7.3079618,2,light rain,18.96,0.52
+79,Eguisheim,48.0447968,7.3079618,3,light rain,20.24,0.62
+80,Eguisheim,48.0447968,7.3079618,4,light rain,23.61,0.27
+81,Eguisheim,48.0447968,7.3079618,5,broken clouds,25.63,0.29
+82,Eguisheim,48.0447968,7.3079618,6,overcast clouds,26.62,0.29
+83,Eguisheim,48.0447968,7.3079618,7,moderate rain,15.61,1
+84,Besancon,47.2380222,6.0243622,1,light rain,18.28,0.84
+85,Besancon,47.2380222,6.0243622,2,light rain,19.7,0.69
+86,Besancon,47.2380222,6.0243622,3,light rain,20.63,0.47
+87,Besancon,47.2380222,6.0243622,4,broken clouds,22.78,0.11
+88,Besancon,47.2380222,6.0243622,5,light rain,24.55,0.35
+89,Besancon,47.2380222,6.0243622,6,light rain,26.06,0.7
+90,Besancon,47.2380222,6.0243622,7,moderate rain,13.94,1
+91,Dijon,47.3215806,5.0414701,1,light rain,18.81,0.55
+92,Dijon,47.3215806,5.0414701,2,light rain,19.27,0.5
+93,Dijon,47.3215806,5.0414701,3,light rain,19.6,0.56
+94,Dijon,47.3215806,5.0414701,4,light rain,22.7,0.29
+95,Dijon,47.3215806,5.0414701,5,light rain,24.42,0.31
+96,Dijon,47.3215806,5.0414701,6,light rain,23.45,0.97
+97,Dijon,47.3215806,5.0414701,7,moderate rain,13.61,0.91
+98,Annecy,45.8992348,6.1288847,1,light rain,15.87,1
+99,Annecy,45.8992348,6.1288847,2,light rain,14.95,0.72
+100,Annecy,45.8992348,6.1288847,3,light rain,20.1,0.91
+101,Annecy,45.8992348,6.1288847,4,scattered clouds,23.11,0.28
+102,Annecy,45.8992348,6.1288847,5,broken clouds,24.48,0
+103,Annecy,45.8992348,6.1288847,6,overcast clouds,25.25,0.11
+104,Annecy,45.8992348,6.1288847,7,moderate rain,21.38,1
+105,Grenoble,45.1875602,5.7357819,1,light rain,15.83,0.84
+106,Grenoble,45.1875602,5.7357819,2,light rain,16.27,0.75
+107,Grenoble,45.1875602,5.7357819,3,moderate rain,21.41,0.84
+108,Grenoble,45.1875602,5.7357819,4,light rain,25.26,0.42
+109,Grenoble,45.1875602,5.7357819,5,broken clouds,27.01,0
+110,Grenoble,45.1875602,5.7357819,6,overcast clouds,26.91,0
+111,Grenoble,45.1875602,5.7357819,7,moderate rain,24.99,0.75
+112,Lyon,45.7578137,4.8320114,1,light rain,19.61,0.35
+113,Lyon,45.7578137,4.8320114,2,light rain,19.74,0.5
+114,Lyon,45.7578137,4.8320114,3,few clouds,20.72,0.08
+115,Lyon,45.7578137,4.8320114,4,scattered clouds,25.05,0.04
+116,Lyon,45.7578137,4.8320114,5,scattered clouds,26.67,0.03
+117,Lyon,45.7578137,4.8320114,6,broken clouds,26.07,0.18
+118,Lyon,45.7578137,4.8320114,7,light rain,22.91,0.99
+119,Gorges du Verdon,43.7496562,6.3285616,1,light rain,15.08,0.87
+120,Gorges du Verdon,43.7496562,6.3285616,2,moderate rain,14.55,0.97
+121,Gorges du Verdon,43.7496562,6.3285616,3,moderate rain,17.93,0.86
+122,Gorges du Verdon,43.7496562,6.3285616,4,light rain,19.45,0.53
+123,Gorges du Verdon,43.7496562,6.3285616,5,few clouds,20.28,0
+124,Gorges du Verdon,43.7496562,6.3285616,6,clear sky,20.75,0
+125,Gorges du Verdon,43.7496562,6.3285616,7,broken clouds,19.3,0
+126,Bormes les Mimosas,43.1572172,6.329253867921363,1,light rain,20.32,0.54
+127,Bormes les Mimosas,43.1572172,6.329253867921363,2,moderate rain,19.21,0.58
+128,Bormes les Mimosas,43.1572172,6.329253867921363,3,light rain,20.61,0.4
+129,Bormes les Mimosas,43.1572172,6.329253867921363,4,clear sky,20.89,0.08
+130,Bormes les Mimosas,43.1572172,6.329253867921363,5,scattered clouds,21.61,0
+131,Bormes les Mimosas,43.1572172,6.329253867921363,6,clear sky,20.69,0
+132,Bormes les Mimosas,43.1572172,6.329253867921363,7,broken clouds,20.74,0
+133,Cassis,43.2140359,5.5396318,1,light rain,19.77,0.53
+134,Cassis,43.2140359,5.5396318,2,moderate rain,15.97,0.67
+135,Cassis,43.2140359,5.5396318,3,clear sky,19.74,0.16
+136,Cassis,43.2140359,5.5396318,4,clear sky,20.87,0.08
+137,Cassis,43.2140359,5.5396318,5,scattered clouds,20,0
+138,Cassis,43.2140359,5.5396318,6,clear sky,19.66,0
+139,Cassis,43.2140359,5.5396318,7,overcast clouds,19.81,0
+140,Marseille,43.2961743,5.3699525,1,light rain,20.44,0.45
+141,Marseille,43.2961743,5.3699525,2,light rain,15.81,0.64
+142,Marseille,43.2961743,5.3699525,3,clear sky,19.94,0.12
+143,Marseille,43.2961743,5.3699525,4,clear sky,21,0.06
+144,Marseille,43.2961743,5.3699525,5,scattered clouds,19.97,0
+145,Marseille,43.2961743,5.3699525,6,clear sky,19.62,0
+146,Marseille,43.2961743,5.3699525,7,overcast clouds,19.64,0
+147,Aix en Provence,43.5298424,5.4474738,1,light rain,20.84,0.55
+148,Aix en Provence,43.5298424,5.4474738,2,light rain,16.56,0.81
+149,Aix en Provence,43.5298424,5.4474738,3,light rain,22.72,0.34
+150,Aix en Provence,43.5298424,5.4474738,4,clear sky,24.56,0.08
+151,Aix en Provence,43.5298424,5.4474738,5,scattered clouds,22.73,0
+152,Aix en Provence,43.5298424,5.4474738,6,few clouds,22.87,0
+153,Aix en Provence,43.5298424,5.4474738,7,overcast clouds,22.61,0
+154,Avignon,43.9492493,4.8059012,1,clear sky,21.56,0.11
+155,Avignon,43.9492493,4.8059012,2,overcast clouds,21.37,0.25
+156,Avignon,43.9492493,4.8059012,3,clear sky,24.27,0.17
+157,Avignon,43.9492493,4.8059012,4,clear sky,26.78,0
+158,Avignon,43.9492493,4.8059012,5,broken clouds,26.05,0
+159,Avignon,43.9492493,4.8059012,6,broken clouds,25.33,0
+160,Avignon,43.9492493,4.8059012,7,overcast clouds,25.04,0.02
+161,Uzes,44.0121279,4.4196718,1,clear sky,20.79,0
+162,Uzes,44.0121279,4.4196718,2,broken clouds,21.63,0.12
+163,Uzes,44.0121279,4.4196718,3,clear sky,23.24,0.08
+164,Uzes,44.0121279,4.4196718,4,clear sky,26.19,0.04
+165,Uzes,44.0121279,4.4196718,5,overcast clouds,24.38,0
+166,Uzes,44.0121279,4.4196718,6,broken clouds,24.19,0
+167,Uzes,44.0121279,4.4196718,7,overcast clouds,23.85,0.09
+168,Nimes,43.8374249,4.3600687,1,clear sky,21.62,0
+169,Nimes,43.8374249,4.3600687,2,broken clouds,22.26,0.13
+170,Nimes,43.8374249,4.3600687,3,clear sky,24.05,0.03
+171,Nimes,43.8374249,4.3600687,4,clear sky,26.28,0.01
+172,Nimes,43.8374249,4.3600687,5,overcast clouds,23.88,0
+173,Nimes,43.8374249,4.3600687,6,broken clouds,23.87,0
+174,Nimes,43.8374249,4.3600687,7,overcast clouds,23.81,0.03
+175,Aigues Mortes,43.5658225,4.1912837,1,clear sky,22.92,0
+176,Aigues Mortes,43.5658225,4.1912837,2,broken clouds,20.18,0.19
+177,Aigues Mortes,43.5658225,4.1912837,3,clear sky,22.09,0.01
+178,Aigues Mortes,43.5658225,4.1912837,4,clear sky,20.94,0
+179,Aigues Mortes,43.5658225,4.1912837,5,overcast clouds,19.68,0
+180,Aigues Mortes,43.5658225,4.1912837,6,broken clouds,19.66,0
+181,Aigues Mortes,43.5658225,4.1912837,7,overcast clouds,19.86,0
+182,Saintes Maries de la mer,43.4522771,4.4287172,1,clear sky,22.02,0
+183,Saintes Maries de la mer,43.4522771,4.4287172,2,broken clouds,19.32,0.12
+184,Saintes Maries de la mer,43.4522771,4.4287172,3,few clouds,20.52,0
+185,Saintes Maries de la mer,43.4522771,4.4287172,4,clear sky,19.3,0
+186,Saintes Maries de la mer,43.4522771,4.4287172,5,overcast clouds,18.67,0
+187,Saintes Maries de la mer,43.4522771,4.4287172,6,broken clouds,18.77,0
+188,Saintes Maries de la mer,43.4522771,4.4287172,7,overcast clouds,18.96,0
+189,Collioure,42.52505,3.0831554,1,scattered clouds,21.21,0
+190,Collioure,42.52505,3.0831554,2,light rain,21.5,0.41
+191,Collioure,42.52505,3.0831554,3,clear sky,20.57,0.4
+192,Collioure,42.52505,3.0831554,4,clear sky,22.52,0
+193,Collioure,42.52505,3.0831554,5,overcast clouds,22.02,0
+194,Collioure,42.52505,3.0831554,6,broken clouds,24.19,0
+195,Collioure,42.52505,3.0831554,7,overcast clouds,20.52,0.05
+196,Carcassonne,43.2130358,2.3491069,1,scattered clouds,18.16,0.23
+197,Carcassonne,43.2130358,2.3491069,2,light rain,17.2,0.41
+198,Carcassonne,43.2130358,2.3491069,3,clear sky,23.31,0.22
+199,Carcassonne,43.2130358,2.3491069,4,clear sky,26.24,0.01
+200,Carcassonne,43.2130358,2.3491069,5,broken clouds,26.47,0.1
+201,Carcassonne,43.2130358,2.3491069,6,scattered clouds,24.21,0
+202,Carcassonne,43.2130358,2.3491069,7,overcast clouds,21.32,0.18
+203,Ariege,42.9455368,1.4065544156065486,1,light rain,11.58,0.62
+204,Ariege,42.9455368,1.4065544156065486,2,light rain,10.99,0.83
+205,Ariege,42.9455368,1.4065544156065486,3,light rain,15.22,0.52
+206,Ariege,42.9455368,1.4065544156065486,4,few clouds,18.83,0.15
+207,Ariege,42.9455368,1.4065544156065486,5,light rain,20.55,0.4
+208,Ariege,42.9455368,1.4065544156065486,6,light rain,22.24,0.35
+209,Ariege,42.9455368,1.4065544156065486,7,light rain,13.87,0.6
+210,Toulouse,43.6044622,1.4442469,1,light rain,19.61,0.36
+211,Toulouse,43.6044622,1.4442469,2,light rain,19.38,0.72
+212,Toulouse,43.6044622,1.4442469,3,clear sky,21.84,0.05
+213,Toulouse,43.6044622,1.4442469,4,scattered clouds,25.06,0
+214,Toulouse,43.6044622,1.4442469,5,scattered clouds,25.45,0
+215,Toulouse,43.6044622,1.4442469,6,broken clouds,24.93,0.03
+216,Toulouse,43.6044622,1.4442469,7,light rain,18.68,0.37
+217,Montauban,44.0175835,1.3549991,1,overcast clouds,17.46,0.37
+218,Montauban,44.0175835,1.3549991,2,clear sky,20.01,0.45
+219,Montauban,44.0175835,1.3549991,3,clear sky,21.89,0
+220,Montauban,44.0175835,1.3549991,4,few clouds,24.93,0
+221,Montauban,44.0175835,1.3549991,5,broken clouds,25.44,0
+222,Montauban,44.0175835,1.3549991,6,overcast clouds,26.25,0.03
+223,Montauban,44.0175835,1.3549991,7,light rain,19.29,0.38
+224,Biarritz,43.4832523,-1.5592776,1,broken clouds,16.58,0.03
+225,Biarritz,43.4832523,-1.5592776,2,broken clouds,16.13,0
+226,Biarritz,43.4832523,-1.5592776,3,clear sky,19.17,0.03
+227,Biarritz,43.4832523,-1.5592776,4,broken clouds,23.59,0
+228,Biarritz,43.4832523,-1.5592776,5,light rain,17.98,0.51
+229,Biarritz,43.4832523,-1.5592776,6,light rain,19.38,0.62
+230,Biarritz,43.4832523,-1.5592776,7,light rain,16.28,0.58
+231,Bayonne,43.4933379,-1.475099,1,broken clouds,16.93,0.05
+232,Bayonne,43.4933379,-1.475099,2,broken clouds,16.7,0.01
+233,Bayonne,43.4933379,-1.475099,3,clear sky,20.13,0.04
+234,Bayonne,43.4933379,-1.475099,4,broken clouds,24.9,0
+235,Bayonne,43.4933379,-1.475099,5,light rain,18.63,0.52
+236,Bayonne,43.4933379,-1.475099,6,light rain,20.29,0.64
+237,Bayonne,43.4933379,-1.475099,7,light rain,16.53,0.6
+238,La Rochelle,46.1591126,-1.1520434,1,light rain,18.24,0.27
+239,La Rochelle,46.1591126,-1.1520434,2,overcast clouds,18.21,0.03
+240,La Rochelle,46.1591126,-1.1520434,3,few clouds,20.22,0
+241,La Rochelle,46.1591126,-1.1520434,4,overcast clouds,19.04,0
+242,La Rochelle,46.1591126,-1.1520434,5,clear sky,16.14,0
+243,La Rochelle,46.1591126,-1.1520434,6,clear sky,17.24,0
+244,La Rochelle,46.1591126,-1.1520434,7,broken clouds,15.29,0
